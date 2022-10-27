@@ -1,0 +1,1 @@
+# django1_2_get_paginator
